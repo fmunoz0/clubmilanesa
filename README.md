@@ -1,6 +1,6 @@
 # clubmilanesa
 
-script to get an 20% off coupon in El Club de la Milanesa
+script to get an 30% off coupon in El Club de la Milanesa
 
 store list
 https://elclubdelamilanesa.com/cdm-panel/admin-ajax.php?action=store_search&lat=-34.53438&lng=-58.46789&search_radius=1000000
